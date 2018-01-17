@@ -1,0 +1,3 @@
+﻿  doodlebug.cpp
+c:\users\fabia\onedrive\documents\github\doodlebug\doodlebug\doodlebug\doodlebug.cpp(82): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Doodlebug.vcxproj -> C:\Users\fabia\OneDrive\Documents\GitHub\Doodlebug\Doodlebug\Debug\Doodlebug.exe
